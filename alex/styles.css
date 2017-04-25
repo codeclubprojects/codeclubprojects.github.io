@@ -1,0 +1,64 @@
+p, ul {
+	color:#666;
+}
+
+body {
+	background: white;
+}
+
+/* This is the top bar */
+.navbar {
+	background:white;
+	border: none;
+}
+
+/* This is the top bar text */
+.navbar-header .navbar-brand {
+	color:black;
+}
+
+/* This is the big section at the top */
+.jumbotron {
+	background: black;
+	/*padding-bottom: 0px;*/
+	padding-top: 10px;
+}
+
+/* The button at the top */
+#section0 a {
+	background:grey;
+	color: white;
+}
+
+#section0 p {
+	color: white;
+}
+
+/* The other buttons */
+#section1 a {
+	background:grey;
+	color: black;
+} 
+
+/* Top heading */
+.jumbotron h1 {
+	color: black;
+	text-shadow:0px 0px 5px white;
+    font-size: 63px;
+}
+
+/* Other headings */
+h2 {
+	color: black;
+    font-size: 30px;
+}
+
+h3 {
+	color: black;
+	font-size: 18px;
+}
+
+/* The divider line */
+hr {
+	border-top: 1px solid black;
+}

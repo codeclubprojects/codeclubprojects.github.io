@@ -1,0 +1,16 @@
+.jumbotron {
+	background: #9CC5D0;
+	/*padding-bottom: 0px;*/
+}
+
+#section0 a {
+	background:red;
+}
+
+hr {
+	border-top: 1px solid #9CC5D0;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
